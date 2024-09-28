@@ -6,3 +6,6 @@ RUN rm -rf /var/www/html/*
 ADD index.html /var/www/html/
 CMD ["nginx", "-g", "daemon off;"]
 
+
+123
+
