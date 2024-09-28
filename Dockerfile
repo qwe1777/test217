@@ -7,5 +7,5 @@ ADD index.html /var/www/html/
 CMD ["nginx", "-g", "daemon off;"]
 
 
-123
+177
 
